@@ -1,2 +1,2 @@
 # Entity Relationship Diagram
-![](https://github.com/Integradora-bis/Proyecto/edit/master/Recetar.io)
+![](https://github.com/Integradora-bis/Proyecto/blob/master/cookipies.png)
